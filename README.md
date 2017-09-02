@@ -14,6 +14,6 @@ How to use it ? very simple :
 - a second main function is the programmation phase, each channel can be programmed with 3 buttons , so you can adjust minimum / maximum duty (position) for each channel.
 
 Power supply is 5V, but can operate also at 6 or 7.2V if you like.
-Microncontroller used it's a bit old, NXP MC9S08GT16CFB from NXP (previous Freescale) but still in full production, i have used this one because i have them from old projects, it's much more powerful that required, but easy to use. To program the uP you need BDM interface, from P&E or from openBDM, serch them with google, tools are free from NXP web site. (CodeWarrior 10.6 has been used)
+Microncontroller used it's a bit old, NXP MC9S08GT16ACFBE from NXP (previous Freescale) but still in full production, i have used this one because i have them from old projects, it's much more powerful that required, but easy to use. To program the uP you need BDM interface, from P&E or from openBDM, serch them with google, tools are free from NXP web site. 
 
 

@@ -28,4 +28,4 @@ Now press again SW7 (ENTER) for 3" to save the values.
 
 Remember : at power on the servo will take position saved with led off, keep in mind when you make the calibration.
 
-[Imgur](https://i.imgur.com/B0iEMfb.png)
+(https://i.imgur.com/B0iEMfb.png)

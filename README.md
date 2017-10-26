@@ -1,4 +1,4 @@
-# servo-controller
+﻿# servo-controller
 4 channel RC servo controller
 This project born on necessity to drive some RC classic servo on two programmable positions.
 On my model plane i need to drive some servos in two position , like GAS choke servo , fuel pump, other's.....
@@ -9,7 +9,7 @@ The controller can drive up to 4 servo, each one can assume two different positi
 
 This circuit can be useful for some function you wan't on your radio or if you don't have enought channel like in my case.
 
-How to use it ? very simple :
+**How to use it ? very simple :**
 - each channel have a push button that toggle the servo position each time is pressed, a led show the status. (min/ max position)
 - a second main function is the programmation phase, each channel can be programmed with 3 buttons , so you can adjust minimum / maximum duty (position) for each channel.
 
@@ -18,7 +18,7 @@ Microcontroller used it's a bit old, NXP MC9S08GT32CFBE from NXP (previous Frees
 
 A green led blink slow means the processor is running.
 
-How to :
+**How to :**
 by default each servo position have two values, 1000uS pulse as minimum and 2000uS pulse as maximum, press a button (SW1 to SW4) toggle the corresponding servo position and red LED near each push button.
 
 You have other 3 push button, SW5 (UP) SW6 (down) SW7 (ENTER), to enter in programming mode press for 3" the SW7.

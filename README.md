@@ -27,4 +27,4 @@ When in programming mode all red leds will blink quickly, now press one pushbutt
 Now press again SW7 (ENTER) for 3" to save the values. 
 
 Remember : at power on the servo will take position saved with led off, keep in mind when you make the calibration.
-[connections picture](https://i.imgur.com/B0iEMfb.png)
+![connections picture](https://i.imgur.com/B0iEMfb.png)
